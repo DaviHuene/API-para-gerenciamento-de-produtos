@@ -3,7 +3,8 @@
 API para gerenciamento de produtos, construída com **FastAPI** e **MongoDB** (via `motor` e `pymongo`).
 
 ---
-
+![image](https://github.com/user-attachments/assets/889c9fd9-b612-465a-84f1-2cfe0a4e8bcb)
+---
 ## 📦 Funcionalidades
 
 - Criar produtos
